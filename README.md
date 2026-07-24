@@ -1,4 +1,4 @@
-# DS-AMS-Gar-a
+# DS-AMS-Garça
 Programa de Articulação da Formação Profissional Média e Superior – AMS
 
 Componentes:
